@@ -24,7 +24,7 @@ Thammasat University, Thailand**
 ## Internship Experience
 * Sep 2022 - Nov 2022: **Research Intern**, **Tokyo Institute of Technology (Tokyo Tech), Japan**
   * Research Title: Improving the neural machine translation performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
-  * Supervisor Prof.[Manabu Okumura]([http://example.com/ "Optional Title"](http://www.lr.pi.titech.ac.jp/~oku/index-e.html))
+  * Supervisor Prof.[Manabu Okumura](http://www.lr.pi.titech.ac.jp/~oku/index-e.html)
 
 ## Work Experience
 * Jan 2023 - Present: **Teaching Assistant**, **Sirindhorn International Institute of Technology (SIIT)**
