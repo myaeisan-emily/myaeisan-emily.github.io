@@ -9,7 +9,7 @@ I am a final year master's student of Sirindhorn International Institute of Tech
 Thammasat University, Thailand**
   * Master of Engineering in Artificial Intelligence and Internet of Things (AI & IoT) Program 
   * GPA: 3.5/4.00 (Expected Graduation May/2023)
-  * Thesis Title: Machine Translation (MT) for Low-Resource Thai–English–Myanmar language pairs 
+  * Thesis Title: Machine Translation (MT) for Low-Resource Thai-English-Myanmar language pairs 
     * Supervisors: Assistant Prof. [Sasiporn Usanavasin](https://www.siit.tu.ac.th/personnel.php?id=138), [Dr.Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/), [Dr.Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59)
 
 * Jan 2019 - Dec 2019: **University of Yangon, Myanmar**
