@@ -25,17 +25,21 @@ Thammasat University, Thailand**
  
 ## Internship Experience
 * Sep 2022 - Nov 2022: **Research Intern**, **Tokyo Institute of Technology (Tokyo Tech), Japan**
+
   * Research Title: Improving the neural machine translation performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
   * Supervisor Prof. Manabu Okumura 
 
 ## Work Experience
 * Jan 2023 - Present: **Teaching Assistant**, **Sirindhorn International Institute of Technology (SIIT)**
+
   * Course: Object-Oriented Programming Subject (Java)
 
 * Jan 2022 - May 2022: **Teaching Assistant**, **Sirindhorn International Institute of Technology (SIIT)**
+
   * Course: Introduction of Algorithms and Object-Oriented Programming Subject (Java)
 
 * Jan 2023 - Present: **Network Engineer**, **Myanmar Posts and Telecommunications (MPT-KSGM)**
+
   * Reason for resignation: I found my passion to be a researcher in the NLP field
 
 ### Publications
