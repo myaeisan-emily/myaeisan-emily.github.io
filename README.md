@@ -24,7 +24,7 @@ Thammasat University, Thailand**
 ## Internship Experience
 * Sep 2022 - Nov 2022: **Research Intern**, **Tokyo Institute of Technology (Tokyo Tech), Japan**
   * Research Title: Improving the neural machine translation performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
-  * Supervisor Prof. Manabu Okumura 
+  * Supervisor Prof.[Manabu Okumura]([http://example.com/ "Optional Title"](http://www.lr.pi.titech.ac.jp/~oku/index-e.html))
 
 ## Work Experience
 * Jan 2023 - Present: **Teaching Assistant**, **Sirindhorn International Institute of Technology (SIIT)**
@@ -37,6 +37,6 @@ Thammasat University, Thailand**
   * Reason for resignation: I found my passion to be a researcher in the NLP field
 
 ### Publications
-* Mya Ei San, Ye Kyaw Thu, Zar Zar Hlaing, Hlaing Myat Nwe, Thepchai Supnithi and Sasiporn Usanavasin, "A Study of Levenshtein Transformer and Editor Transformer Models for Under-Resourced Languages," 2021 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Ayutthaya, Thailand, 2021, pp. 1-6, doi: 10.1109/iSAI-NLP54397.2021.9678159.
-* Mya Ei San, Ye Kyaw Thu, Thepchai Supnithi and Sasiporn Usanavasin, "Improving Neural Machine Translation for Low-resource English-Myanmar-Thai Language Pairs with SwitchOut Data Augmentation Algorithm," 2022 17th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Chiang Mai, Thailand, 2022, pp. 1-6, doi: 10.1109/iSAI-NLP56921.2022.9960261. (Runner-up Award)
-* Zar Zar Hlaing, Ye Kyaw Thu, Thazin Myint Oo, Mya Ei San, Sasiporn Usanavasin, Ponrudee Netisopakul, and Thepchai Supnithi. 2021. NECTEC’s Participation in WAT-2021. In Proceedings of the 8th Workshop on Asian Translation (WAT2021), pages 74–82, Online. Association for Computational Linguistics.
+* **Mya Ei San**, Ye Kyaw Thu, Zar Zar Hlaing, Hlaing Myat Nwe, Thepchai Supnithi and Sasiporn Usanavasin, "A Study of Levenshtein Transformer and Editor Transformer Models for Under-Resourced Languages," 2021 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Ayutthaya, Thailand, 2021, pp. 1-6, doi: 10.1109/iSAI-NLP54397.2021.9678159.
+* **Mya Ei San**, Ye Kyaw Thu, Thepchai Supnithi and Sasiporn Usanavasin, "Improving Neural Machine Translation for Low-resource English-Myanmar-Thai Language Pairs with SwitchOut Data Augmentation Algorithm," 2022 17th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Chiang Mai, Thailand, 2022, pp. 1-6, doi: 10.1109/iSAI-NLP56921.2022.9960261. (Runner-up Award)
+* Zar Zar Hlaing, Ye Kyaw Thu, Thazin Myint Oo,**Mya Ei San**, Sasiporn Usanavasin, Ponrudee Netisopakul, and Thepchai Supnithi. 2021. NECTEC’s Participation in WAT-2021. In Proceedings of the 8th Workshop on Asian Translation (WAT2021), pages 74–82, Online. Association for Computational Linguistics.
