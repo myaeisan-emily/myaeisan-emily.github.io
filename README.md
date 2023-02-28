@@ -1,7 +1,7 @@
 
 # About Me
 
-I am a final year master's student of Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand. My research interests mainly focus on Natural Language Processing (NLP) especially in Machine Translation, Neural Language Models, and Linguistic Tools. I am also interested in Machine Learning (ML) field. My email is x@gmail.com where x is myaeisan1995.
+I am a final year master's student of Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand. My research interest mainly focuses on Natural Language Processing (NLP) especially in Machine Translation, Neural Language Models, and Linguistic Tools. I am also interested in Machine Learning (ML) field. My email is x@gmail.com where x is myaeisan1995.
 
 
 ## Education
