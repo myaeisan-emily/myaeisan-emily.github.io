@@ -20,12 +20,12 @@ Thammasat University, Thailand**
 
   * Bachelor of Electronic Engineering
   * GPA: 5.00 /5.00
-  * Class Rank: 1 st (from first year to fourth year), 3rd at final year
+  * Class Rank: 1st (from first year to fourth year), 3rd at final year
   * Project Title: Temperature Control System in Electric Strove
  
 ## Internship Experience
 * Sep 2022 - Nov 2022: **Research Intern**, **Tokyo Institute of Technology (Tokyo Tech), Japan**
-  * Research Title: Improving the Neural Machine Translation Performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
+  * Research Title: Improving the neural machine translation performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
   * Supervisor Prof. Manabu Okumura 
 
 ## Work Experience
