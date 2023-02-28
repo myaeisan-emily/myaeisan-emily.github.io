@@ -11,30 +11,31 @@ Thammasat University, Thailand**
   * Master of Engineering in Artificial Intelligence and Internet of Things (AI & IoT) Program 
   * GPA: 3.5/4.00 (Expected Graduation May/2023)
   * Thesis Title: Machine Translation (MT) for Low-Resource Thai–English–Myanmar language pairs 
-    * Supervised by Dr.Sasiporn Usanavasin, Dr.Ye Kyaw Thu, Dr.Thepchai Supnithi
+    * Supervisors Dr.Sasiporn Usanavasin, Dr.Ye Kyaw Thu, Dr.Thepchai Supnithi
 
 * Jan 2019 - Dec 2019: **University of Yangon**
   * Diploma in Computer Science
 
 * Dec 2011 - Sep 2016: **West Yangon Technological University (WYTU)**
+
   * Bachelor of Electronic Engineering
   * GPA: 5.00 /5.00
   * Class Rank: 1 st (from first year to fourth year), 3rd at final year
   * Project Title: Temperature Control System in Electric Strove
  
 ## Intership Experience
-* Sep 2022 - Nov 2022: Research Intern,**Tokyo Institute of Technology (Tokyo Tech), Japan**
+* Sep 2022 - Nov 2022: Research Intern, **Tokyo Institute of Technology (Tokyo Tech), Japan**
   * Research Title: Improving the Neural Machine Translation Performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
-  * Supervised by Prof. Manabu Okumura 
+  * Supervisor Prof. Manabu Okumura 
 
 ## Work Experience
-* Jan 2023 - Present: Teaching Assistant,**Sirindhorn International Institute of Technology (SIIT)**
+* Jan 2023 - Present: Teaching Assistant, **Sirindhorn International Institute of Technology (SIIT)**
   * Course:Object-Oriented Programming Subject (Java)
 
-* Jan 2022 - May 2022: Teaching Assistant,**Sirindhorn International Institute of Technology (SIIT)**
+* Jan 2022 - May 2022: Teaching Assistant, **Sirindhorn International Institute of Technology (SIIT)**
   * Course:Introduction of Algorithms and Object-Oriented Programming Subject (Java)
 
-* Jan 2023 - Present: Network Engineer,**Myanmar Posts and Telecommunications (MPT-KSGM)**
+* Jan 2023 - Present: Network Engineer, **Myanmar Posts and Telecommunications (MPT-KSGM)**
   * Reason for resignation: I found my passion to be a researcher in the NLP field
 
 ### Publications
