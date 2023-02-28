@@ -20,13 +20,13 @@ Thammasat University, Thailand**
  * GPA: 5.00 /5.00
  * Class Rank: 1 st (from first year to fourth year), 3rd at final year
  * Project Title: Temperature Control System in Electric Strove
-
-##Intership Experience
+ 
+## Intership Experience
 * Sep 2022 - Nov 2022: Research Intern,**Tokyo Institute of Technology (Tokyo Tech), Japan**
  * Research Title: Improving the Neural Machine Translation Performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
  * Supervised by Prof. Manabu Okumura 
 
-##Work Experience
+## Work Experience
 * Jan 2023 - Present: Teaching Assistant,**Sirindhorn International Institute of Technology (SIIT)**
  * Course:Object-Oriented Programming Subject (Java)
 
@@ -36,7 +36,7 @@ Thammasat University, Thailand**
 * Jan 2023 - Present: Network Engineer,**Myanmar Posts and Telecommunications (MPT-KSGM)**
  * Reason for resignation: I found my passion to be a researcher in the NLP field
 
-###Publications
+### Publications
 * Mya Ei San, Ye Kyaw Thu, Zar Zar Hlaing, Hlaing Myat Nwe, Thepchai Supnithi and Sasiporn Usanavasin, "A Study of Levenshtein Transformer and Editor Transformer Models for Under-Resourced Languages," 2021 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Ayutthaya, Thailand, 2021, pp. 1-6, doi: 10.1109/iSAI-NLP54397.2021.9678159.
 * Mya Ei San, Ye Kyaw Thu, Thepchai Supnithi and Sasiporn Usanavasin, "Improving Neural Machine Translation for Low-resource English-Myanmar-Thai Language Pairs with SwitchOut Data Augmentation Algorithm," 2022 17th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Chiang Mai, Thailand, 2022, pp. 1-6, doi: 10.1109/iSAI-NLP56921.2022.9960261. (Runner-up Award)
 * Zar Zar Hlaing, Ye Kyaw Thu, Thazin Myint Oo, Mya Ei San, Sasiporn Usanavasin, Ponrudee Netisopakul, and Thepchai Supnithi. 2021. NECTEC’s Participation in WAT-2021. In Proceedings of the 8th Workshop on Asian Translation (WAT2021), pages 74–82, Online. Association for Computational Linguistics.
