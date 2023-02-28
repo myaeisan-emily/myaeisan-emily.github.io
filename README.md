@@ -36,11 +36,11 @@ Thammasat University, Thailand**
 * Feb 2017 - June 2020: **Network Engineer**, **Myanmar Posts and Telecommunications (MPT-KSGM)**
   * Reason for resignation: I found my passion to be a researcher in NLP field
 
-## Awards
+## Scholarships and Awards
 * Sep 2022 - Nov 2022: JASSO Scholarship for Research-Oriented Student Exchange Program at Tokyo Institute of Technology (Tokyo Tech), Japan 
 * Aug 2020 - July 2022: Thailand Advanced Institute of Science and Technology and Tokyo Institute of Technology (TAIST-Tokyo Tech) Scholarship
 * Dec 2011 - Sep 2016: Outstanding Student Awards (from first year to final year) at West Yangon Technological University (WYTU) 
-* Mar 2011: Outstanding Student Award honored by B.E.H.S (No.2) Hlaing and Township Administration  for passing the National Matriculation Exam with 5 distinctions
+* Mar 2011: Outstanding Student Award honored by B.E.H.S (No.2) Hlaing and Township Administration  for passing the National Matriculation Exam with 5 distinctions out of total 6 subjects
 
 ## Publications
 * **Mya Ei San**, Ye Kyaw Thu, Zar Zar Hlaing, Hlaing Myat Nwe, Thepchai Supnithi and Sasiporn Usanavasin, **A Study of Levenshtein Transformer and Editor Transformer Models for Under-Resourced Languages**, 2021 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Ayutthaya, Thailand, 2021, pp. 1-6, doi: 10.1109/iSAI-NLP54397.2021.9678159.
