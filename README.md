@@ -10,7 +10,7 @@ Thammasat University, Thailand**
   * Master of Engineering in Artificial Intelligence and Internet of Things (AI & IoT) Program 
   * GPA: 3.5/4.00 (Expected Graduation May/2023)
   * Thesis Title: Machine Translation (MT) for Low-Resource Thai–English–Myanmar language pairs 
-    * Supervisors: Dr.Sasiporn Usanavasin, Dr.Ye Kyaw Thu, Dr.Thepchai Supnithi
+    * Supervisors: [Dr.Sasiporn Usanavasin](https://www.siit.tu.ac.th/personnel.php?id=138), [Dr.Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/), [Dr.Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59)
 
 * Jan 2019 - Dec 2019: **University of Yangon**
   * Diploma in Computer Science
@@ -24,7 +24,7 @@ Thammasat University, Thailand**
 ## Internship Experience
 * Sep 2022 - Nov 2022: **Research Intern**, **Tokyo Institute of Technology (Tokyo Tech), Japan**
   * Research Title: Improving the neural machine translation performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
-  * Supervisor Prof.[Manabu Okumura](http://www.lr.pi.titech.ac.jp/~oku/index-e.html)
+  * Supervisor Prof. [Manabu Okumura](http://www.lr.pi.titech.ac.jp/~oku/index-e.html)
 
 ## Work Experience
 * Jan 2023 - Present: **Teaching Assistant**, **Sirindhorn International Institute of Technology (SIIT)**
