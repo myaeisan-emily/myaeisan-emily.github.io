@@ -42,7 +42,7 @@ Thammasat University, Thailand**
 * Dec 2011 - Sep 2016: Outstanding Student Awards (from first year to final year) at West Yangon Technological University (WYTU) 
 * Mar 2011: Outstanding Student Awards honored by B.E.H.S (No.2) Hlaing and Township Administration  for passing the National Matriculation Exam with 5 distinctions
 
-### Publications
+## Publications
 * **Mya Ei San**, Ye Kyaw Thu, Zar Zar Hlaing, Hlaing Myat Nwe, Thepchai Supnithi and Sasiporn Usanavasin, **A Study of Levenshtein Transformer and Editor Transformer Models for Under-Resourced Languages**, 2021 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Ayutthaya, Thailand, 2021, pp. 1-6, doi: 10.1109/iSAI-NLP54397.2021.9678159.
 * **Mya Ei San**, Ye Kyaw Thu, Thepchai Supnithi and Sasiporn Usanavasin, **Improving Neural Machine Translation for Low-resource English-Myanmar-Thai Language Pairs with SwitchOut Data Augmentation Algorithm**, 2022 17th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Chiang Mai, Thailand, 2022, pp. 1-6, doi: 10.1109/iSAI-NLP56921.2022.9960261. (Runner-up Award)
 * Zar Zar Hlaing, Ye Kyaw Thu, Thazin Myint Oo, **Mya Ei San**, Sasiporn Usanavasin, Ponrudee Netisopakul, and Thepchai Supnithi. 2021. **NECTEC’s Participation in WAT-2021**. In Proceedings of the 8th Workshop on Asian Translation (WAT2021), pages 74–82, Online. Association for Computational Linguistics.
