@@ -12,10 +12,10 @@ Thammasat University, Thailand**
   * Thesis Title: Machine Translation (MT) for Low-Resource Thai–English–Myanmar language pairs 
     * Supervisors: Assistant Prof. [Sasiporn Usanavasin](https://www.siit.tu.ac.th/personnel.php?id=138), [Dr.Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/), [Dr.Thepchai Supnithi](https://www.nectec.or.th/hccru/staff/view/59)
 
-* Jan 2019 - Dec 2019: **University of Yangon**
+* Jan 2019 - Dec 2019: **University of Yangon, Myanmar**
   * Diploma in Computer Science
 
-* Dec 2011 - Sep 2016: **West Yangon Technological University (WYTU)**
+* Dec 2011 - Sep 2016: **West Yangon Technological University (WYTU), Myanmar**
   * Bachelor of Electronic Engineering
   * GPA: 5.00 /5.00
   * Class Rank: 1st (from first year to fourth year), 3rd at final year
