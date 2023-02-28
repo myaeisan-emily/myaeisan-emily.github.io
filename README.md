@@ -34,7 +34,7 @@ Thammasat University, Thailand**
   * Course: Introduction of Algorithms and Object-Oriented Programming Subject (Java)
 
 * Feb 2017 - June 2020: **Network Engineer**, **Myanmar Posts and Telecommunications (MPT-KSGM)**
-  * Reason for resignation: I found my passion to be a researcher in the NLP field
+  * Reason for resignation: I found my passion to be a researcher in NLP field
 
 ### Publications
 * **Mya Ei San**, Ye Kyaw Thu, Zar Zar Hlaing, Hlaing Myat Nwe, Thepchai Supnithi and Sasiporn Usanavasin, **A Study of Levenshtein Transformer and Editor Transformer Models for Under-Resourced Languages**, 2021 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Ayutthaya, Thailand, 2021, pp. 1-6, doi: 10.1109/iSAI-NLP54397.2021.9678159.
