@@ -1,17 +1,18 @@
 
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
+# About Me
 
-My name is Inigo Montoya. I have the following qualities:
+I am a final year master's student of Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand. My research interests lie in natural language processing, data science, machine learning, and deep learning. My email is x@gmail.com where x is myaeisan1995.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+## Education
+*Aug 2020 - Present: Srindhorn International Institute of Technology (SIIT), 
+Thammasat University, Thailand
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*Master of Engineering in Artificial Intelligence and Internet of Things (AI & IoT) Program 
+*GPA: 3.5/4.00 (Expected Graduation May/2023)
+*Thesis Title: Machine Translation (MT) for Low-Resource Thai–English–Myanmar language pairs 
+                             *Supervised by Dr.Sasiporn Usanavasin, Dr.Ye Kyaw Thu, Dr.Thepchai Supnithi
+                             *Built own parallel medical English-Myanmar-Thai corpus
+                             *Applied data augmentation approach to improve the MT performance of low-resource languages
+                             *Experimented with neural network models such as transformer, seq2seq model, and pre-trained model
+                             *Analyzed the experimental results of applying neural network models to low-resource languages
