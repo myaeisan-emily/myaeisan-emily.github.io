@@ -1,7 +1,7 @@
 
 # About Me
 
-I am a final year master's student of Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand. My research interests mainly focus on Natural Language Processing especially in Machine Translation, Neural Language Models, and Linguistic Tools. I am also interested in Data Science, Machine Learning, and Deep Learning fields. My email is x@gmail.com where x is myaeisan1995.
+I am a final year master's student of Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand. My research interests mainly focus on Natural Language Processing (NLP) especially in Machine Translation, Neural Language Models, and Linguistic Tools. I am also interested in Machine Learning (ML) field. My email is x@gmail.com where x is myaeisan1995.
 
 
 ## Education
@@ -34,7 +34,7 @@ Thammasat University, Thailand**
   * Course: Introduction of Algorithms and Object-Oriented Programming Subject (Java)
 
 * Feb 2017 - June 2020: **Network Engineer**, **Myanmar Posts and Telecommunications (MPT-KSGM)**
-  * Reason for resignation: I found my passion to be a researcher in the Natural Language Processing field
+  * Reason for resignation: I found my passion to be a researcher in the NLP field
 
 ### Publications
 * **Mya Ei San**, Ye Kyaw Thu, Zar Zar Hlaing, Hlaing Myat Nwe, Thepchai Supnithi and Sasiporn Usanavasin, **A Study of Levenshtein Transformer and Editor Transformer Models for Under-Resourced Languages**, 2021 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Ayutthaya, Thailand, 2021, pp. 1-6, doi: 10.1109/iSAI-NLP54397.2021.9678159.
