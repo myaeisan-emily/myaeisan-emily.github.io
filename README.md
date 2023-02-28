@@ -33,7 +33,7 @@ Thammasat University, Thailand**
 * Jan 2022 - May 2022: **Teaching Assistant**, **Sirindhorn International Institute of Technology (SIIT)**
   * Course: Introduction of Algorithms and Object-Oriented Programming Subject (Java)
 
-* Jan 2023 - Present: **Network Engineer**, **Myanmar Posts and Telecommunications (MPT-KSGM)**
+* Feb 2017 - June 2020: **Network Engineer**, **Myanmar Posts and Telecommunications (MPT-KSGM)**
   * Reason for resignation: I found my passion to be a researcher in the NLP field
 
 ### Publications
