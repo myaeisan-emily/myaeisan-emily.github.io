@@ -26,7 +26,7 @@ Thammasat University, Thailand**
   * Research Title: Improving the neural machine translation performance for Thai-English-Myanmar language pairs with pre-trained mBART-50 model and back-translation approach
   * Supervisor: Prof. [Manabu Okumura](http://www.lr.pi.titech.ac.jp/~oku/index-e.html)
 
-## Work Experience
+## Work Experiences
 * Jan 2023 - Present: **Teaching Assistant**, **Sirindhorn International Institute of Technology (SIIT)**
   * Course: Object-Oriented Programming Subject (Java)
 
