@@ -1,7 +1,7 @@
 
 # About Me
 
-I am a final year master's student of Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand. My current research work lies on Natural Language Processing (NLP) especially in Machine Translation, Neural Language Models and Linguistic Tools. I am also interested in Parsing, Generative Large Language Models, Machine Learning (ML) and user applications to solve the real-world NLP probelms efficiently. My email is x@gmail.com where x is myaeisan1995.
+I am a final year master's student of Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand. My current research work lies on Natural Language Processing (NLP) especially in Machine Translation, Neural Language Models and Linguistic Tools. I am also interested in Parsing, Generative Large Language Models and Machine Learning (ML). My long-term research goal is to bring end-to-end approach that can solve the real-world NLP probelms efficiently. My email is x@gmail.com where x is myaeisan1995.
 
 
 ## Education
