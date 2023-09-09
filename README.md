@@ -5,7 +5,7 @@ I am a final year master's student of Sirindhorn International Institute of Tech
 
 
 ## Education
-* Aug 2020 - Present: **Srindhorn International Institute of Technology (SIIT), 
+* Aug 2020 - June 2023: **Sirindhorn International Institute of Technology (SIIT), 
 Thammasat University, Thailand**
   * Master of Engineering in Artificial Intelligence and Internet of Things (AI & IoT) Program 
   * GPA: 3.5/4.00 (Expected Graduation May/2023)
